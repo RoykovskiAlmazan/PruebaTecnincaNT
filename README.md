@@ -49,3 +49,5 @@ Un contenedor que almacena la bade de datos de mysql y otro el script de python 
 Si fuera un sistema mas robusto esto permitiria que el software fuera escalable gracias a los microservicios
 Para el desarollo de este ejercicio no contaba con Docker y no contemplaba que me fuera a dar tiempo de hacerlo.
 
+El archivo que se ejecuta para el ejercicio de las consultas es el de interfazyconsultas.py considerando que se cuenta con MySQL server community y las librerias de python (esto se evitaria usando docker)
+
